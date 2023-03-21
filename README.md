@@ -32,7 +32,7 @@ _A bullet list of requirements before installing and using the plugin. The requi
 
 _List the steps necessary to install the plugin._
 
-1. Run the following command in the directory of the Medusa backend:
+1\. Run the following command in the directory of the Medusa backend:
 
   ```bash
   npm install medusa-payment-stripe
@@ -66,7 +66,7 @@ _List the steps necessary to install the plugin._
 
 _List the steps necessary to test the plugin._
 
-1. Run the following command in the directory of the Medusa backend to run the backend:
+1\. Run the following command in the directory of the Medusa backend to run the backend:
 
   ```bash
   npm start
